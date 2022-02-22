@@ -1,0 +1,23 @@
+{
+  "name": "admin-panel-alfresco",
+  "version": "1.0.0",
+  "description": "Este módulo de administración de Alfresco fue desarrollado utilizando consultas a la __REST API de Alfresco Content Services__, con el fin de extender funcionalidades y adaptar a requirimientos específicos permitiendo mayor flexibilidad en el manejo del flujo de información.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullcodepro/admin-panel-alfresco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullcodepro/admin-panel-alfresco/issues"
+  },
+  "homepage": "https://github.com/fullcodepro/admin-panel-alfresco#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.2"
+  }
+}
