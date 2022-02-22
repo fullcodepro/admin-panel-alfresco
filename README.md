@@ -2,7 +2,7 @@
 
 ## Descripción:
 
-Este módulo de administración de Alfresco fue desarrollado utilizando consultas a la `REST API de Alfresco Content Services` con el fin de extender las funcionalidades del mismo permitiendo adaptarse a requirimientos específicos permitiendo la flexibilidad y despliegue de nuevas funcionalidades.
+Este módulo de administración de Alfresco fue desarrollado utilizando consultas a la `REST API de Alfresco Content Services` con el fin de extender funcionalidades y adaptar a requirimientos específicos permitiendo mayor flexibilidad y despliegue de nuevas funcionalidades.
 
 ## Qué permite realizar el módulo provisto:
 
