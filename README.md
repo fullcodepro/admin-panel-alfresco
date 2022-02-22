@@ -2,9 +2,9 @@
 
 ## Descripción
 
-Este módulo de administración de Alfresco fue desarrollado utilizando consultas a la __REST API de Alfresco Content Services__ con el fin de extender funcionalidades y adaptar a requirimientos específicos permitiendo mayor flexibilidad en el manejo del flujo de información.
+Este módulo de administración de Alfresco fue desarrollado utilizando consultas a la __REST API de Alfresco Content Services__, con el fin de extender funcionalidades y adaptar a requirimientos específicos permitiendo mayor flexibilidad en el manejo del flujo de información.
 
-## Qué permite realizar el módulo provisto:
+## Qué permite realizar el módulo provisto
 
 1. Navegar entre los diferentes nodos a patir de un nodo raíz.
 2. Obtener información de un nodo específico de Alfresco acerca de sus propiedades.
